@@ -1,6 +1,6 @@
 from loguru import logger
 
-from atm_classes.atm_controller import ATMMachineController
+from lesson2.atm.atm_classes.atm_controller import ATMMachineController
 
 
 class ATMMachine:
